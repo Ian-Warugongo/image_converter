@@ -2,7 +2,7 @@ import sys
 import os
 from PIL import Image
 
-# Hardcoded paths based on your setup
+# Paths
 source_folder = 'Pokedex'
 destination_folder = 'new'
 
